@@ -7,3 +7,4 @@
 gogost/gost
 node:18-alpine
 nginx:alpine
+prom/prometheus
